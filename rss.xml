@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Carila]]></title>
-        <description><![CDATA[Carila]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cari’s Personal Blog]]></title>
+        <description><![CDATA[Cari’s Personal Blog]]></description>
+        <link>https://thegrid.ai/carila/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 02:56:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 03:20:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carila/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcaf1b07-45a6-4b59-a545-70df5c2a2b1d.jpg">]]></description>
+            <link>https://thegrid.ai/carila/c6a8d9f7-54e3-4778-af1c-2f87cf57464c/index.html</link>
+            <guid isPermaLink="false">c6a8d9f7-54e3-4778-af1c-2f87cf57464c</guid>
+            <pubDate>Fri, 19 Feb 2016 03:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df998e41-4ac9-43b7-a444-d7136982744d.jpg">]]></description>
-            <link>undefined19a64e74-27dc-4b1a-8f5a-de147527fcd4/index.html</link>
+            <link>https://thegrid.ai/carila/19a64e74-27dc-4b1a-8f5a-de147527fcd4/index.html</link>
             <guid isPermaLink="false">19a64e74-27dc-4b1a-8f5a-de147527fcd4</guid>
             <pubDate>Fri, 19 Feb 2016 02:55:59 GMT</pubDate>
         </item>
